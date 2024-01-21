@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#">
+  <a href="https://juniord-dev.github.io/js-piano-simulator/" target="_blank">
     <img src="./src/piano-simulator.jpeg" width="450">
   </a>
 </p>
@@ -31,7 +31,7 @@ No desenvolvimento desse jogo pude aplicar os conhecimentos em manipulação de 
 
 ## Como usar o teclado:
 
-Para tocar o piano virtual basta clicar <a href="#">AQUI</a>!
+Para tocar o piano virtual basta clicar <a href="https://juniord-dev.github.io/js-piano-simulator/" target="_blank">AQUI</a>!
 
 ## A ser implementado:
 
